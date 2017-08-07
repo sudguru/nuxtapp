@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>JSON Help</title>
+	<!-- Latest compiled and minified CSS & JS -->
+	<!-- Latest compiled and minified CSS & JS -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+	<script src="https://code.jquery.com/jquery.js"></script>
+	<script>
+		$(document).ready(function(){
+			$('.filelink').on('click', function(){
+				var filename = $(this).html();
+				window.open(filename, '_blank');
+			});
+		});
+	</script>
+	<style>
+		.filelink { cursor: pointer; font-weight: bold; color: #336699; }
+		.bold { font-weight: bold }
+	</style>
+</head>
+<body>
+	<div class="container">
+		<table class="table table-hover">
+			<thead>
+				<tr>
+					<th>Route</th>
+					<th>Destination</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td class="bold">/</td>
+					<td>Home Page with Default Language (Eg: <span class="bold">/en </span>)</td>
+				</tr>
+			</tbody>
+		</table>
+		<hr>
+		<table class="table table-hover">
+		<thead>
+			<tr>
+				<th>SN</th>
+				<th>JSON File Name</th>
+				<th>Used In</th>
+				<th>Description</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>1</td>
+				<td class="filelink">toplinks.json</td>
+				<td>@/header/Header-Top.vue</td>
+				<td>Welcome message, Top Menu Links and supported languages</td>
+			</tr>
+			<tr>
+				<td>2</td>
+				<td class="filelink">exchangerate.json</td>
+				<td>@/header/Header-Top.vue</td>
+				<td>Fresh exchange rate</td>
+			</tr>
+			<tr>
+				<td>3</td>
+				<td class="filelink">settings.json</td>
+				<td>App.vue</td>
+				<td>General Site Setings</td>
+			</tr>
+			<tr>
+				<td>4</td>
+				<td class="filelink">nav.json</td>
+				<td>@/header/Header-Nav.vue and @/Mobileheader.vue</td>
+				<td>Navigation Links</td>
+			</tr>
+			<tr>
+				<td>5</td>
+				<td class="filelink">customlinks.json</td>
+				<td>@/header/Header-Nav.vue</td>
+				<td>Additional Links displayed at the header of the page</td>
+			</tr>
+			<tr>
+				<td>6</td>
+				<td class="filelink">homepageslider.json</td>
+				<td>@/header/Carousel.vue</td>
+				<td>Home Page Slides</td>
+			</tr>
+			<tr>
+				<td>7</td>
+				<td class="filelink">quicklinks.json</td>
+				<td>@/header/Quicklinks.vue</td>
+				<td>Permanent links to be displayed in home page and/or inside pages</td>
+			</tr>
+		</tbody>
+	</table>
+	</div>
+</body>
+</html>

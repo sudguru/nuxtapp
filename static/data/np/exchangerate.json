@@ -1,0 +1,142 @@
+[
+ {
+   "symbol": "<span class=\"fa fa-usd\"></span>",
+   "currency": "US Dollar",
+   "unit": 1,
+   "bp": 102.3,
+   "sp": 102.9
+ },
+ {
+   "symbol": "<span class=\"fa fa-eur\"></span>",
+   "currency": "Euro",
+   "unit": 1,
+   "bp": 111.84,
+   "sp": 113.27
+ },
+ {
+   "symbol": "<span class=\"fa fa-gbp\"></span>",
+   "currency": "Sterling Pound",
+   "unit": 1,
+   "bp": 131.35,
+   "sp": 133.05
+ },
+ {
+   "symbol": "A<span class=\"fa fa-usd\"></span>",
+   "currency": "Australian Dollar",
+   "unit": 1,
+   "bp": 75.38,
+   "sp": 76.45
+ },
+ {
+   "symbol": "C<span class=\"fa fa-usd\"></span>",
+   "currency": "Canadian Dollar",
+   "unit": 1,
+   "bp": 74.7,
+   "sp": 75.69
+ },
+ {
+   "symbol": "SFr",
+   "currency": "Swiss Franc",
+   "unit": 1,
+   "bp": 102.25,
+   "sp": 103.58
+ },
+ {
+   "symbol": "S<span class=\"fa fa-usd\"></span>",
+   "currency": "Singapore Dollar",
+   "unit": 1,
+   "bp": 72.78,
+   "sp": 73.76
+ },
+ {
+   "symbol": "<span class=\"fa fa-yen\"></span>",
+   "currency": "Japanese Yen",
+   "unit": 10,
+   "bp": 8.97,
+   "sp": 9.17
+ },
+ {
+   "symbol": "<span class=\"fa fa-won\"></span>",
+   "currency": "South Korean Won",
+   "unit": 100,
+   "bp": 9.1,
+   "sp": 9.22
+ },
+ {
+   "symbol": "SR",
+   "currency": "Saudi Riyal",
+   "unit": 1,
+   "bp": 26.64,
+   "sp": 26.99
+ },
+ {
+   "symbol": "<span class=\"fa fa-yen\"></span>",
+   "currency": "Chinese Yuan",
+   "unit": 1,
+   "bp": 14.76,
+   "sp": 14.96
+ },
+ {
+   "symbol": "QR",
+   "currency": "Qatari Rial",
+   "unit": 1,
+   "bp": 27.3,
+   "sp": 27.56
+ },
+ {
+   "symbol": "RM",
+   "currency": "Malaysia Ringgit",
+   "unit": 1,
+   "bp": 22.87,
+   "sp": 23.2
+ },
+ {
+   "symbol": "TB",
+   "currency": "Thai Baht",
+   "unit": 1,
+   "bp": 2.95,
+   "sp": 2.99
+ },
+ {
+   "symbol": "DH",
+   "currency": "UAE Dirham",
+   "unit": 1,
+   "bp": 27.16,
+   "sp": 27.47
+ },
+ {
+   "symbol": "HK<span class=\"fa fa-usd\"></span>",
+   "currency": "Hong Kong Dollar",
+   "unit": 1,
+   "bp": 13.07,
+   "sp": 13.24
+ },
+ {
+   "symbol": "Kr.",
+   "currency": "Danish Kroner",
+   "unit": 1,
+   "bp": 15.03,
+   "sp": 15.23
+ },
+ {
+   "symbol": "Kr.",
+   "currency": "Swedish Kroner",
+   "unit": 1,
+   "bp": 11.53,
+   "sp": 11.69
+ },
+ {
+   "symbol": "BD",
+   "currency": "Bahrani Dinar",
+   "unit": 1,
+   "bp": 269.96,
+   "sp": 273.51
+ },
+ {
+   "symbol": "KWD",
+   "currency": "Kuwaiti Dinar",
+   "unit": 1,
+   "bp": 334.06,
+   "sp": 338.81
+ }
+]

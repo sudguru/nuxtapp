@@ -1,0 +1,56 @@
+[
+	{
+		"title" : "Interest Rate",
+		"icon" : "fa fa-bank",
+		"link" : "#",
+		"hot" : false
+	},
+	{
+		"title" : "Exchange Rate",
+		"icon" : "fa fa-exchange",
+		"link" : "#",
+		"hot" : false
+	},
+	{
+		"title" : "Financial Calculator",
+		"icon" : "fa fa-calculator",
+		"link" : "#",
+		"hot" : false
+	},
+	{
+		"title" : "ATM Location",
+		"icon" : "fa fa-map-marker",
+		"link" : "#",
+		"hot" : false
+	},
+	{
+		"title" : "Branches List",
+		"icon" : "fa fa-map",
+		"link" : "#",
+		"hot" : false
+	},
+	{
+		"title" : "Extended Banking",
+		"icon" : "fa fa-clock-o",
+		"link" : "#",
+		"hot" : false
+	},
+	{
+		"title" : "Service Charges",
+		"icon" : "fa fa-money",
+		"link" : "#",
+		"hot" : false
+	},
+	{
+		"title" : "Downloads",
+		"icon" : "fa fa-download",
+		"link" : "#",
+		"hot" : false
+	}
+]
+
+ 
+ 
+
+ 
+ 

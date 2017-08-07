@@ -1,0 +1,429 @@
+{
+	"pagetitle": "Nepal Bank Limited - First Bank in Nepal",
+	"tollfree" : "Toll Free No. 16600137373",
+	"defaultlanguage": "en",
+	"companyname": "Nepal Bank Limited",
+	"address": "Dharmapath, Kathmandu - Head Office",
+	"phone": "+977 1 4247999 / 4239888",
+	"email": "info@nepalbank.com.np",
+	"swiftcode": "NEBLNPKA",
+	"workinghours": "Sun - Fri / 10:00AM - 5:00PM",
+	"facebook": "https://facebook.com/nepalbank",
+	"twitter": "https://twitter.com/nepalbank",
+	"linkedin": "https://linkedin.com/nepalbank",
+	"welcome": "WELCOME TO NB WEBSITE NOW !", 
+	"links" : [
+		{ "name" : "सफलताका  कथाहरु", "link": "/en/post/success-stories"},
+		{ "name": "NRN BANKING", "link": "/en/post/nrn-banking"},
+		{ "name": "NOTICE BOARD", "link": "/en/post/notice-board" }
+	],
+	"languages" : [ 
+		{"name" : "Nepali", "icon" : "/img/np.jpg", "shortcode" : "np" }, 
+		{ "name" : "English", "icon" : "/img/en.png", "shortcode" : "en" } 
+	],
+	"quicklinks" : [
+		{
+			"title" : "Interest Rate",
+			"icon" : "fa fa-bank",
+			"link" : "/en/post/interest-rate",
+			"hot" : false
+		},
+		{
+			"title" : "Exchange Rate",
+			"icon" : "fa fa-exchange",
+			"link" : "/en/post/exchange-rate",
+			"hot" : false
+		},
+		{
+			"title" : "Financial Calculator",
+			"icon" : "fa fa-calculator",
+			"link" : "/en/post/financial-calculator",
+			"hot" : false
+		},
+		{
+			"title" : "ATM Locations",
+			"icon" : "fa fa-map-marker",
+			"link" : "/en/post/atm-locations",
+			"hot" : false
+		},
+		{
+			"title" : "Branches List",
+			"icon" : "fa fa-map",
+			"link" : "/en/post/any-branch-banking-services-abbs",
+			"hot" : false
+		},
+		{
+			"title" : "Extended Banking",
+			"icon" : "fa fa-clock-o",
+			"link" : "/en/post/extended-banking",
+			"hot" : false
+		},
+		{
+			"title" : "Service Charges",
+			"icon" : "fa fa-money",
+			"link" : "/en/post/service-charges",
+			"hot" : false
+		},
+		{
+			"title" : "Downloads",
+			"icon" : "fa fa-download",
+			"link" : "/en/post/resources",
+			"hot" : false
+		}
+	],
+	"navs" :  [
+		{
+			"title" : "About",
+			"link" : "/en/category/about",
+			"children" : [
+				{
+					"title" : "Intro",
+					"link" : "#",
+					"children" : [
+						{
+							"title" : "History",
+							"link" : "/en/post/history"
+						},
+						{
+							"title" : "Introduction",
+							"link" : "/en/post/introduction"
+						},
+						{
+							"title" : "Executive Management",
+							"link" : "/en/post/executive-management"
+						},
+						{
+							"title" : "Organization Structure",
+							"link" : "/en/post/organization-structure"
+						},
+						{
+							"title" : "Network",
+							"link" : "/en/post/network"
+						}
+					]
+				},
+				{
+					"title" : "In Depth",
+					"link" : "#",
+					"children" : [
+						{
+							"title" : "NRN Banking",
+							"link" : "/en/post/nrn-banking"
+						},
+						{
+							"title" : "Success Stories",
+							"link" : "/en/post/success-stories"
+						},
+						{
+							"title" : "Notice Board",
+							"link" : "/en/post/notice-board"
+						}
+					]
+				}
+			]
+		},
+		{
+			"title" : "Deposit",
+			"link" : "/en/category/deposit",
+			"children" : [
+				{
+					"title" : "Current Account",
+					"link" : "/en/post/current-account"
+				},
+				{
+					"title" : "Saving Account",
+					"link" : "/en/post/saving-account"
+				},
+				{
+					"title" : "Fixed Account",
+					"link" : "/en/post/fixed-account"
+				},
+				{ 
+					"title" : "New Account",
+					"link" : "/en/post/new-account"
+				},
+				{
+					"title" : "Other Account",
+					"link" : "#",
+					"children" : [
+						{
+							"title" : "NBL Sahuliyat Bachat Khata",
+							"link" : "/en/post/nbl-sahuliyat-bachat-khata"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"title": "Loan / Advances",
+			"link": "/en/category/loan-advances",
+			"children": [
+				{
+					"title" : "Corporate Loans",
+					"link" : "/en/post/corporate-loans"
+				},
+				{
+					"title": "Consumer Loans",
+					"link": "#",
+					"children": [
+						{
+							"title": "Personal Loans",
+							"link": "/en/post/personal-loans"
+						},
+						{
+							"title": "Auto Loans",
+							"link": "/en/post/auto-loans"
+						},
+						{
+							"title": "Margin Lending",
+							"link": "/en/post/margin-lending"
+						},
+						{
+							"title": "Home Loans",
+							"link": "/en/post/home-loans"
+						}
+					]
+				}
+			]
+		},
+		{
+			"title": "Remittance",
+			"link": "/en/category/remittance",
+			"children": [
+				{
+					"title" : "NBL Web Remit",
+					"link" : "/en/post/nbl-web-remit"
+				},
+				{
+					"title": "NBL Remittance Products",
+					"link": "/en/post/nbl-remittance-products"
+				}
+			]
+		},
+		{
+			"title": "Other Services",
+			"link": "/en/category/other-services",
+			"children": [
+				{
+					"title": "Save Deposit Vaults",
+					"link": "/en/post/safe-deposit-vaults"
+				},
+				{
+					"title": "Trade Finance",
+					"link": "/en/post/trade-finance"
+				},
+				{
+					"title": "Mobile Banking",
+					"link": "/en/post/mobile-banking"
+				},
+				{
+					"title": "Any Branch Banking Services (ABBS)",
+					"link": "/en/post/any-branch-banking-services-abbs"
+				},
+				{
+					"title": "Internet Banking",
+					"link": "/en/post/internet-banking"
+				},
+				{
+					"title": "ATM / Debit Card",
+					"link": "/en/post/atm-debit-card"
+				},
+				{
+					"title": "ASBA Service",
+					"link": "/en/post/asba-service"
+				}
+
+			]
+		},
+		{
+			"title": "Resources",
+			"link": "/en/category/resources",
+			"children" : [
+				{
+					"title": "Financial Results",
+					"link": "/en/post/financial-results"
+				},
+				{
+					"title": "Interest Rate",
+					"link": "/en/post/interest-rate"
+				},
+				{
+					"title": "Exchange Rate",
+					"link": "/en/post/exchange-rate"
+				},
+				{
+					"title": "Application Form",
+					"link": "/en/post/application-form"
+				}
+			]
+		},
+		{
+			"title": "New/Events",
+			"link": "/en/category/news-events"
+		}
+	],
+	"hpsliders" : [
+		{ "slide" : "/static/img/temp/slides/slide1.jpg", "link": "/en/post/some-custom-page" , "caption": "Some Caption"},
+		{ "slide" : "/static/img/temp/slides/slide2.jpg", "link": "/en/post/another-custom-page" , "caption": "" }
+	],
+	"exchangerates": [
+		{
+			"symbol": "<span class=\"fa fa-usd\"></span>",
+			"currency": "US Dollar",
+			"unit": 1,
+			"bp": 102.3,
+			"sp": 102.9
+		},
+		{
+			"symbol": "<span class=\"fa fa-eur\"></span>",
+			"currency": "Euro",
+			"unit": 1,
+			"bp": 111.84,
+			"sp": 113.27
+		},
+		{
+			"symbol": "<span class=\"fa fa-gbp\"></span>",
+			"currency": "Sterling Pound",
+			"unit": 1,
+			"bp": 131.35,
+			"sp": 133.05
+		},
+		{
+			"symbol": "A<span class=\"fa fa-usd\"></span>",
+			"currency": "Australian Dollar",
+			"unit": 1,
+			"bp": 75.38,
+			"sp": 76.45
+		},
+		{
+			"symbol": "C<span class=\"fa fa-usd\"></span>",
+			"currency": "Canadian Dollar",
+			"unit": 1,
+			"bp": 74.7,
+			"sp": 75.69
+		},
+		{
+			"symbol": "SFr",
+			"currency": "Swiss Franc",
+			"unit": 1,
+			"bp": 102.25,
+			"sp": 103.58
+		},
+		{
+			"symbol": "S<span class=\"fa fa-usd\"></span>",
+			"currency": "Singapore Dollar",
+			"unit": 1,
+			"bp": 72.78,
+			"sp": 73.76
+		},
+		{
+			"symbol": "<span class=\"fa fa-yen\"></span>",
+			"currency": "Japanese Yen",
+			"unit": 10,
+			"bp": 8.97,
+			"sp": 9.17
+		},
+		{
+			"symbol": "<span class=\"fa fa-won\"></span>",
+			"currency": "South Korean Won",
+			"unit": 100,
+			"bp": 9.1,
+			"sp": 9.22
+		},
+		{
+			"symbol": "SR",
+			"currency": "Saudi Riyal",
+			"unit": 1,
+			"bp": 26.64,
+			"sp": 26.99
+		},
+		{
+			"symbol": "<span class=\"fa fa-yen\"></span>",
+			"currency": "Chinese Yuan",
+			"unit": 1,
+			"bp": 14.76,
+			"sp": 14.96
+		},
+		{
+			"symbol": "QR",
+			"currency": "Qatari Rial",
+			"unit": 1,
+			"bp": 27.3,
+			"sp": 27.56
+		},
+		{
+			"symbol": "RM",
+			"currency": "Malaysia Ringgit",
+			"unit": 1,
+			"bp": 22.87,
+			"sp": 23.2
+		},
+		{
+			"symbol": "TB",
+			"currency": "Thai Baht",
+			"unit": 1,
+			"bp": 2.95,
+			"sp": 2.99
+		},
+		{
+			"symbol": "DH",
+			"currency": "UAE Dirham",
+			"unit": 1,
+			"bp": 27.16,
+			"sp": 27.47
+		},
+		{
+			"symbol": "HK<span class=\"fa fa-usd\"></span>",
+			"currency": "Hong Kong Dollar",
+			"unit": 1,
+			"bp": 13.07,
+			"sp": 13.24
+		},
+		{
+			"symbol": "Kr.",
+			"currency": "Danish Kroner",
+			"unit": 1,
+			"bp": 15.03,
+			"sp": 15.23
+		},
+		{
+			"symbol": "Kr.",
+			"currency": "Swedish Kroner",
+			"unit": 1,
+			"bp": 11.53,
+			"sp": 11.69
+		},
+		{
+			"symbol": "BD",
+			"currency": "Bahrani Dinar",
+			"unit": 1,
+			"bp": 269.96,
+			"sp": 273.51
+		},
+		{
+			"symbol": "KWD",
+			"currency": "Kuwaiti Dinar",
+			"unit": 1,
+			"bp": 334.06,
+			"sp": 338.81
+		}
+	],
+	"customlinks": [
+		{
+			"title" : "राइट शेर इलिजिबिलिटी चेक",
+			"link" : "/post/right-share-eligibility-check",
+			"hot" : false
+		},
+		{
+			"title" : "Internet Banking",
+			"link": "/en/post/internet-banking",
+			"hot": true
+		},
+		{
+			"title" : "Vacancy",
+			"link": "/en/category/vacancy",
+			"hot": true
+		}
+	]
+}

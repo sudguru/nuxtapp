@@ -1,0 +1,12 @@
+{
+	"welcome": "WELCOME TO NB WEBSITE NOW !", 
+	"links" : [
+		{ "name" : "SUCCESS STORIES", "link": "/np/post/success-stories"},
+		{ "name": "NRN BANKING", "link": "/np/post/nrn-banking"},
+		{ "name": "NOTICE BOARD", "link": "/np/post/notice-board"}
+	],
+	"languages" : [ 
+		{"name" : "Nepali", "icon" : "/static/img/np.jpg", "link" : "/#/np" }, 
+		{ "name" : "English", "icon" : "/static/img/en.png", "link" : "/#/en" } 
+	]
+}

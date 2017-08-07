@@ -1,0 +1,56 @@
+[
+	{
+		"title" : "Interest Rate",
+		"icon" : "fa fa-bank",
+		"link" : "/en/post/interest-rate",
+		"hot" : false
+	},
+	{
+		"title" : "Exchange Rate",
+		"icon" : "fa fa-exchange",
+		"link" : "/en/post/exchange-rate",
+		"hot" : false
+	},
+	{
+		"title" : "Financial Calculator",
+		"icon" : "fa fa-calculator",
+		"link" : "/en/post/financial-calculator",
+		"hot" : false
+	},
+	{
+		"title" : "ATM Locations",
+		"icon" : "fa fa-map-marker",
+		"link" : "/en/post/atm-locations",
+		"hot" : false
+	},
+	{
+		"title" : "Branches List",
+		"icon" : "fa fa-map",
+		"link" : "/en/post/any-branch-banking-services-abbs",
+		"hot" : false
+	},
+	{
+		"title" : "Extended Banking",
+		"icon" : "fa fa-clock-o",
+		"link" : "/en/post/extended-banking",
+		"hot" : false
+	},
+	{
+		"title" : "Service Charges",
+		"icon" : "fa fa-money",
+		"link" : "/en/post/service-charges",
+		"hot" : false
+	},
+	{
+		"title" : "Downloads",
+		"icon" : "fa fa-download",
+		"link" : "/en/post/resources",
+		"hot" : false
+	}
+]
+
+ 
+ 
+
+ 
+ 

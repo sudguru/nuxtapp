@@ -1,0 +1,4 @@
+[
+	{ "slide" : "/static/img/temp/slides/slide1.jpg", "link": "/en/post/some-custom-page" , "caption": "Some Caption"},
+	{ "slide" : "/static/img/temp/slides/slide2.jpg", "link": "/en/post/another-custom-page" , "caption": "" }
+]
